@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LicentaDroid</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="car_prompt">Select car</string>
+
+    <string-array name="cars_array">
+        <item>#1 : Gigel</item>
+        <item>#2 : Fane</item>
+        <item>#3 : Mirel</item>
+    </string-array>
+
+</resources>

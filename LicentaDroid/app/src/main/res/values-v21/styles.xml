@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#3366FF</color>
+    <color name="dark_blue">#3366FF</color>
+    <color name="yellow">#FFFF66</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
+        <item name="colorAccent">@color/yellow</item>
+    </style>
+</resources>
